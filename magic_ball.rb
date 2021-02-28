@@ -35,7 +35,6 @@ greetings = [
 ]
 
 puts greetings.sample
-
 puts
 
 sleep(1)
@@ -45,5 +44,4 @@ puts 'Дай подумать...'
 sleep(2)
 
 puts
-
 puts answers.sample
